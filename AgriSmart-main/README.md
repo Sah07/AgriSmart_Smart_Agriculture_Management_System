@@ -2,15 +2,6 @@ Project Title: AgriSmart – Smart Agriculture Management System
 
 Technologies Used: HTML, CSS, JavaScript, PHP, Python
 
-Team Members:
-
-Sneha Sah
-
-Anisha Gaire
-
-Nibriti Chiluwal
-
-
 Project Description:
 
 AgriSmart is an innovative smart agriculture web application designed to enhance farming efficiency through intelligent automation and real-time data analysis. Developed using HTML, CSS, JavaScript for the front end, and PHP and Python for the backend and sensor data processing, AgriSmart empowers farmers with digital tools for better crop and resource management.
